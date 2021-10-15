@@ -5,6 +5,11 @@ modify starter code to make a functional password generator
 ![Preview of the project](./passgen.png)
 
 
+##Live Installation:
+
+https://silversssc.github.io/password-generator/
+
+
 ## Installation
 
 Use git clone to clone this repository to your local drive

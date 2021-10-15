@@ -10,6 +10,11 @@ modify starter code to make a functional password generator
 https://silversssc.github.io/password-generator/
 
 
+##List of used technology:
+HTML5
+CSS
+
+
 ## Installation
 
 Use git clone to clone this repository to your local drive

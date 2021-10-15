@@ -13,6 +13,7 @@ https://silversssc.github.io/password-generator/
 ##List of used technology:
 HTML5
 CSS
+JavaScript
 
 
 ## Installation
